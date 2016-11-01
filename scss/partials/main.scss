@@ -1,0 +1,20 @@
+* {    
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+*:focus {
+    ouline: none;
+}
+body {
+    font-family: "AvenirNextRoundedW01-Demi", sans-serif;
+    overflow: hidden;
+}
+
+.flex-wrap {
+    display: flex;
+}
+
+.container {
+    width: 1180px;
+}
